@@ -21,7 +21,7 @@ import org.springframework.web.context.request.async.DeferredResult;
 
 /**
  *
- * @author Igor Salnikov <igor.salnikov@stoloto.ru>
+ * @author Igor Salnikov <isalnikov1@gmail.com>
  */
 @Controller
 public class WsController {

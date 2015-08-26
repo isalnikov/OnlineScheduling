@@ -1,7 +1,7 @@
 <%-- 
     Document   : message
     Created on : May 7, 2015, 10:16:39 AM
-    Author     : Igor Salnikov  <igor.salnikov@stoloto.ru>
+    Author     : Igor Salnikov  <isalnikov1@gmail.com>
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
