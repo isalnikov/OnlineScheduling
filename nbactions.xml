@@ -12,4 +12,20 @@
                 <goal>jetty:run</goal>
             </goals>
         </action>
+        <action>
+            <actionName>debug</actionName>
+            <packagings>
+                <packaging>war</packaging>
+                <packaging>ear</packaging>
+                <packaging>ejb</packaging>
+            </packagings>
+            <goals>
+                <goal>jetty:stop</goal>
+                <goal>jetty:run</goal>
+            </goals>
+            <properties>
+                <netbeans.deploy.debugmode>true</netbeans.deploy.debugmode>
+                <jpda.listen>maven</jpda.listen>
+            </properties>
+        </action>
     </actions>
