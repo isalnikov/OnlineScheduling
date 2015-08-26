@@ -20,7 +20,7 @@ import org.springframework.web.socket.config.annotation.WebSocketTransportRegist
 
 /**
  * 
- * @author Igor Salnikov  <igor.salnikov@stoloto.ru>
+ * @author Igor Salnikov  <isalnikov1@gmail.com>
  */
 @Configuration
 @EnableWebMvc
