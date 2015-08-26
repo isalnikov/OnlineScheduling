@@ -18,7 +18,10 @@ import org.springframework.web.socket.config.annotation.EnableWebSocketMessageBr
 import org.springframework.web.socket.config.annotation.StompEndpointRegistry;
 import org.springframework.web.socket.config.annotation.WebSocketTransportRegistration;
 
-
+/**
+ * 
+ * @author Igor Salnikov  <igor.salnikov@stoloto.ru>
+ */
 @Configuration
 @EnableWebMvc
 @EnableScheduling
