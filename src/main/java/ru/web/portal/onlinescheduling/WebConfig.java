@@ -1,6 +1,8 @@
 package ru.web.portal.onlinescheduling;
 
 import java.util.Properties;
+import javax.servlet.ServletContextEvent;
+import javax.servlet.ServletContextListener;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
